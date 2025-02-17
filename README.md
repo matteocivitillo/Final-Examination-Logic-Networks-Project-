@@ -24,16 +24,12 @@ The repository is organized as follows:
 ├── src/                   # Project source code
 │   ├── rtl/               # Hardware modules (VHDL/Verilog)
 │   ├── tb/                # Testbench and simulation scripts
-│   └── synth/             # Synthesis reports
 │
 ├── docs/                  # Documentation
 │   ├── Final_Document.pdf # Project report
 │   └── specifications/    # Technical specifications
 │
-├── results/               # Simulation outputs and performance analysis
-│
 ├── README.md              # Main documentation (this file)
-└── LICENSE                # Project license
 ```
 
 ## System Operation
