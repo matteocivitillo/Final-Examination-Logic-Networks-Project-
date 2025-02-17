@@ -1,7 +1,7 @@
 # Final Project (Logic Networks Project)
 
 ## Project Description
-This repository contains the code and documentation related to the **Final Project (Logic Networks Project)**, developed as part of the Master's Thesis in **Computer Engineering** at Politecnico di Milano during the **2023-2024** academic year.
+This repository contains the code and documentation related to the **Final Project (Logic Networks Project)**, developed as part of the Bachelor's Thesis in **Computer Engineering** at Politecnico di Milano during the **2023-2024** academic year.
 
 ### Authors:
 - **Matteo Civitillo** (Student ID: 984313)
@@ -60,30 +60,4 @@ Post-synthesis tests were conducted to verify the correct operation of the syste
 The **synthesis and timing** analysis reveals:
 - **Maximum propagation time**: 14ns out of 20ns available
 - **No latch usage** and a minimal number of flip-flops to ensure clock synchronization
-
-## Installation and Usage
-### Requirements
-- **HDL Simulators** (e.g., ModelSim, Vivado, Quartus Prime)
-- **Synthesis environment** for FPGA or ASIC (optional)
-
-### Running the Simulation
-```bash
-cd src/tb
-make run_sim
-```
-
-### Synthesizing the Project
-```bash
-cd src/synth
-make synth
-```
-
-## License
-This project is distributed under the **MIT** license. For more details, refer to the `LICENSE` file.
-
-## Contact
-For questions or support requests, contact the authors via email or through the **issue tracking** system on GitHub.
-
----
-**Note**: This README provides an overview of the project. For more details, refer to the complete documentation in `docs/Final_Document.pdf`.
 
