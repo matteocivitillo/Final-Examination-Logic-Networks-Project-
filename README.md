@@ -23,7 +23,7 @@ The repository is organized as follows:
 ```
 ├── docs/                  # Documentation
 │   ├── Final_Document.pdf # Project report
-│   └── specifications/    # Technical specifications
+│   └── specifications/    # Specifications of the project
 │
 ├── src/                   # Project source code
 │   ├── rtl/               # Hardware modules (VHDL/Verilog)
