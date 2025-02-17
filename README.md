@@ -21,13 +21,13 @@ The design is based on a **finite state machine** to optimize processing and red
 The repository is organized as follows:
 
 ```
-├── src/                   # Project source code
-│   ├── rtl/               # Hardware modules (VHDL/Verilog)
-│   ├── tb/                # Testbench and simulation scripts
-│
 ├── docs/                  # Documentation
 │   ├── Final_Document.pdf # Project report
 │   └── specifications/    # Technical specifications
+│
+├── src/                   # Project source code
+│   ├── rtl/               # Hardware modules (VHDL/Verilog)
+│   ├── tb/                # Testbench and simulation scripts
 │
 ├── README.md              # Main documentation (this file)
 ```
